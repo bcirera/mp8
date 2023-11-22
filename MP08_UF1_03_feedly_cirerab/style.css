@@ -1,0 +1,96 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}    
+    h1{
+        text-align: center;
+        font-size: 24;}
+    
+    p{
+        text-align: justify;
+        font-size: 18;}
+    
+    h1, p {
+        padding: 25px;
+        margin: 0;
+        width: 350px;
+    }
+
+li{display: inline;
+    margin: 0 25px 0 0;
+    background-color: #6c3;
+    padding: 10px;
+    border-top-left-radius: 10px;
+}
+
+#menu{
+    background-color: #FFF;
+    height: 40px;
+
+}
+
+#coneix{
+    background-color: #6c3;
+    height: 550px;
+    background-image: url(img/img-hero-full-list.png);
+    background-repeat: no-repeat;
+    background-position: 400px 0px;
+}
+
+#tot{
+    background-color: #FFF;
+    height: 641px;
+    background-image: url(img/allinone.jpg);
+    background-repeat: no-repeat;
+    background-position: 400px 0px;
+}
+
+#util{
+    background-color: #333333;
+    height: 500px;
+    background-image: url(img/curator-short.png);
+    background-repeat: no-repeat;
+    background-position: 400px 0px;
+}
+
+#rapid{
+    background-color: #EEECEE;
+    height: 550px;
+    background-image: url(img/img-hero-full-list.png);
+    background-repeat: no-repeat;
+    background-position: 400px 0px;
+}
+
+#facil{
+    background-color: #6c3;
+    height: 550px;
+    background-image: url(img/mobile-share.png);
+    background-repeat: no-repeat;
+    background-position: 400px 0px;
+}
+
+#arreu{
+    background-color: #EEECEE;
+    height: 643px;
+    background-image: url(img/anywhere.png);
+    background-repeat: no-repeat;
+    background-position: 400px 0px;
+}
+
+#canvia{
+    background-color: #333333;
+    height: 200px;
+    text-align: center;
+}
+
+img{}
+
+#menu img{
+    display: inline;
+}
+#canvia img{
+    margin: 25px;
+}
+
+ul{display: inline-block;}
+
+a{text-decoration: none;}

@@ -1,0 +1,171 @@
+
+.menu{
+    height: 60px;
+}
+
+.contactes{
+    height: 195px;
+}
+
+.contingut{
+    height: 1800px;
+    width: 1665px;
+    margin: auto;
+}
+
+li{
+    display: inline-block;
+    margin: 10px;
+    width: 82px;
+    height: 82px;
+    border-radius: 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    line-height: 200px;
+}
+
+ul{
+    width: 1200px;
+    margin: auto;
+    font-size: 15px;
+    padding: 36px;    
+}
+
+#contactes01{
+    background-image: url(../img/post1.png);
+}
+
+#contactes02{
+    background-image: url(../img/post2.png);
+}
+
+#contactes03{
+    background-image: url(../img/post3.png);
+}
+#contactes04{
+    background-image: url(../img/post4.png);
+}
+
+#contactes05{
+    background-image: url(../img/post5.png);
+}
+
+#contactes06{
+    background-image: url(../img/post6.png);
+}
+#contactes07{
+    background-image: url(../img/post7.png);
+}
+
+#contactes08{
+    background-image: url(../img/post8.png);
+}
+
+#contactes09{
+    background-image: url(../img/post9.png);
+}
+
+#contactes10{
+    background-image: url(../img/post1.png);
+}
+
+#contactes11{
+    background-image: url(../img/watch\ all2.png);
+}
+
+.nav{
+    width: 336px;
+    height: 50px;
+    margin: auto;
+}
+
+.nav ul {
+    height: 50px;
+    width: 220px;
+    padding: 0;
+    margin: auto;
+}
+
+.nav ul li {
+    height: 42px;
+    width: 42px;
+    margin: 4px;
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-size: 100%;
+    background-image: url(../img/ifpagram.png);
+    float: left;
+    background-repeat: no-repeat;
+}
+.home{background-image: url(../img/casa.png);}
+.search{background-image: url(../img/lupa.png);}
+.tv{background-image: url(../img/tele.png);}
+.like{background-image: url(../img/corazon.png);}
+
+.user{
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+    margin-top: 30px;
+    margin-right: 30px;
+    background-size: 100%;
+    background-image: url(../img/perfil.jpg);
+    float: right;
+    background-repeat: no-repeat;
+}
+
+.mensajes{
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+    margin-top: 30px;
+    margin-right: 10px;
+    background-size: 100%;
+    background-image: url(../img/mensages.png);
+    float: right;
+}
+
+.post{
+    width: 535px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    overflow: hidden;
+    float: left;
+}
+.post img{
+    width: 535px;
+}
+
+.post div{
+    width: 100px;
+    margin: 5px;   
+}
+
+.post .postejador{
+    float: left;
+}
+
+.post .postejador img{
+    width: 50px; 
+    border-radius: 50%;
+    float: left;
+}
+.post .reaccions{
+    float: right;
+}
+
+.post h5{
+    height: 25px;
+    line-height: 35px;
+    font-weight: 700;
+}
+
+.post h6{
+    height: 25px;
+}
